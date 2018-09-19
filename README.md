@@ -1,0 +1,2 @@
+# Embedded-Touchscreen-Paint-Using-PIC32
+Implemented a program to paint on the touch screen.  The program has the following features: • There is a palette of colors to choose from indicated by colored buttons on the display.  When you press those buttons, the current color changes to the color shown. • There is  a clear button, which when pressed clears the drawing. • Most of the display is drawable, meaning if you press down, pixels are filled with the current color at the point you press.  You should not be able to draw on the on-screen buttons
